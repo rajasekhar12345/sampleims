@@ -1,2 +1,1 @@
-# sampleims
-sample practical project
+# javaproject
